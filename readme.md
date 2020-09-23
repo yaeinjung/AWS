@@ -1,12 +1,6 @@
 <h3>AWS Solution Architect Associate & Professional Certificate</h3>
 
-
-
-	AWS 자격증을 따기위한 사투 기록
-
-
-
-
+AWS 자격증을 따기위한 사투 기록
 
 <h4>계기</h4>
 
