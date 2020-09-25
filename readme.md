@@ -21,10 +21,11 @@ AWS 자격증을 따기위한 사투 기록
 <h4>목표 자격증 종류 및 가격</h4>
 
 ------
+일단 아키텍트쪽 수업을 들었기에, 아키텍트에 도전하려 한다.
 
-* <b>Associate</b>
+* <b>Solutions Architect Associate</b>
   * 가격 : $150
-* <b>Professional</b>
+* <b>Solutions Architect Professional</b>
   * 가격: $300
 
 Practitioner가 있지만, 사비로 하는것이기 때문에 Associate 부터 시작하기로.
